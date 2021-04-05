@@ -19,8 +19,8 @@ html = browser.html
 soup = BeautifulSoup(html, 'html.parser')
 
 # Retrieve the parent divs for all articles
-results = soup.find_all('table')
-data = results.find_all('tr').text
+results = soup.find('div', class_= 'ant-table-body')
+# data = results.find('tr').text
 browser.quit()
 # Get the title and teaser from first article
-print(f'results are: {data}')
+print(f'results are: {results}')
