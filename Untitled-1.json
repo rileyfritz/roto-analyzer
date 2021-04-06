@@ -1,0 +1,4635 @@
+{
+    "timestamp": "2021-04-06T14:11:49.184Z",
+    "page": 1,
+    "entries": [
+        {
+            "_id": "606c62b7b2d3d80f36a981c5",
+            "userEntryCount": 150,
+            "siteScreenName": "F0rsaken",
+            "rgUserId": "185251",
+            "rgUserName": "DSofM",
+            "user": {
+                "rgUserName": "DSofM",
+                "rgUserId": "185251",
+                "siteEntryName": "F0rsaken"
+            },
+            "siteEntryId": "2623101340",
+            "rank": 1,
+            "timeRemaining": 0,
+            "points": 180.15,
+            "lineup": {
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c70",
+                        "name": "Zach McKinstry"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ccb",
+                        "name": "Yuli Gurriel"
+                    }
+                ],
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e37",
+                        "name": "Will Smith"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e48",
+                        "name": "Javier Baez"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e4a",
+                        "name": "Justin Turner"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e64",
+                        "name": "Mookie Betts"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e16",
+                        "name": "Chris Taylor"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c58",
+                        "name": "Darin Ruf"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ed3",
+                        "name": "Dustin May"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Dustin May",
+                    "Carlos Rodon",
+                    "Mookie Betts",
+                    "Justin Turner",
+                    "Javier Baez",
+                    "Will Smith",
+                    "Chris Taylor",
+                    "Yuli Gurriel",
+                    "Zach McKinstry",
+                    "Darin Ruf"
+                ]
+            },
+            "salaryUsed": 50000,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$100,000.00"
+                },
+                "cash": 100000
+            },
+            "createdAt": "2021-04-06T13:31:35.771Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981c4",
+            "userEntryCount": 150,
+            "siteScreenName": "Felixingenium",
+            "rgUserId": "140038",
+            "rgUserName": "Enlightenmint",
+            "user": {
+                "rgUserName": "Enlightenmint",
+                "rgUserId": "140038",
+                "siteEntryName": "Felixingenium"
+            },
+            "siteEntryId": "2622453751",
+            "rank": 2,
+            "timeRemaining": 0,
+            "points": 177.55,
+            "lineup": {
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c70",
+                        "name": "Zach McKinstry"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c87",
+                        "name": "Yoshi Tsutsugo"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb7",
+                        "name": "Kike Hernandez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c88",
+                        "name": "Franchy Cordero"
+                    }
+                ],
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e37",
+                        "name": "Will Smith"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e4a",
+                        "name": "Justin Turner"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e5a",
+                        "name": "Corey Seager"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Corey Seager",
+                    "Justin Turner",
+                    "Will Smith",
+                    "J.D. Martinez",
+                    "Kike Hernandez",
+                    "Franchy Cordero",
+                    "Yoshi Tsutsugo",
+                    "Zach McKinstry"
+                ]
+            },
+            "salaryUsed": 49900,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$25,000.00"
+                },
+                "cash": 25000
+            },
+            "createdAt": "2021-04-06T13:31:35.771Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981c3",
+            "userEntryCount": 150,
+            "siteScreenName": "youdacao",
+            "rgUserId": "41045",
+            "rgUserName": "youdacao",
+            "user": {
+                "rgUserName": "youdacao",
+                "rgUserId": "41045",
+                "siteEntryName": "youdacao"
+            },
+            "siteEntryId": "2621835677",
+            "rank": 3,
+            "timeRemaining": 0,
+            "points": 176.55,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8b",
+                        "name": "Omar Narvaez"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cbf",
+                        "name": "Marwin Gonzalez"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ccb",
+                        "name": "Yuli Gurriel"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92dbf",
+                        "name": "Alex Verdugo"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c88",
+                        "name": "Franchy Cordero"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e53",
+                        "name": "Alex Bregman"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Xander Bogaerts",
+                    "Alex Bregman",
+                    "J.D. Martinez",
+                    "Alex Verdugo",
+                    "Yuli Gurriel",
+                    "Marwin Gonzalez",
+                    "Franchy Cordero",
+                    "Omar Narvaez"
+                ]
+            },
+            "salaryUsed": 50000,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$10,000.00"
+                },
+                "cash": 10000
+            },
+            "createdAt": "2021-04-06T13:31:35.771Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981c2",
+            "userEntryCount": 1,
+            "siteScreenName": "zilly79",
+            "user": {
+                "siteEntryName": "zilly79"
+            },
+            "siteEntryId": "2622296186",
+            "rank": 4,
+            "timeRemaining": 0,
+            "points": 175.55,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8b",
+                        "name": "Omar Narvaez"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c70",
+                        "name": "Zach McKinstry"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ccb",
+                        "name": "Yuli Gurriel"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e33",
+                        "name": "Francisco Lindor"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e53",
+                        "name": "Alex Bregman"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e60",
+                        "name": "Mike Trout"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c6c",
+                        "name": "Jake Marisnick"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Mike Trout",
+                    "Alex Bregman",
+                    "Francisco Lindor",
+                    "J.D. Martinez",
+                    "Yuli Gurriel",
+                    "Zach McKinstry",
+                    "Jake Marisnick",
+                    "Omar Narvaez"
+                ]
+            },
+            "salaryUsed": 50000,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$5,000.00"
+                },
+                "cash": 5000
+            },
+            "createdAt": "2021-04-06T13:31:35.771Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981c1",
+            "userEntryCount": 3,
+            "siteScreenName": "Styleez",
+            "rgUserId": "17126",
+            "rgUserName": "Styleez",
+            "user": {
+                "rgUserName": "Styleez",
+                "rgUserId": "17126",
+                "siteEntryName": "Styleez"
+            },
+            "siteEntryId": "2623072510",
+            "rank": 5,
+            "timeRemaining": 0,
+            "points": 174.6,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8b",
+                        "name": "Omar Narvaez"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb7",
+                        "name": "Kike Hernandez"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ccc",
+                        "name": "Wilmer Flores"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cd5",
+                        "name": "Evan Longoria"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92dbf",
+                        "name": "Alex Verdugo"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c58",
+                        "name": "Darin Ruf"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ed3",
+                        "name": "Dustin May"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Dustin May",
+                    "Xander Bogaerts",
+                    "J.D. Martinez",
+                    "Alex Verdugo",
+                    "Evan Longoria",
+                    "Wilmer Flores",
+                    "Kike Hernandez",
+                    "Darin Ruf",
+                    "Omar Narvaez"
+                ]
+            },
+            "salaryUsed": 49900,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$3,000.00"
+                },
+                "cash": 3000
+            },
+            "createdAt": "2021-04-06T13:31:35.771Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981c0",
+            "userEntryCount": 150,
+            "siteScreenName": "dereklm",
+            "rgUserId": "370100",
+            "rgUserName": "dereklm",
+            "user": {
+                "rgUserName": "dereklm",
+                "rgUserId": "370100",
+                "siteEntryName": "dereklm"
+            },
+            "siteEntryId": "2622441370",
+            "rank": 6,
+            "timeRemaining": 0,
+            "points": 173.55,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8b",
+                        "name": "Omar Narvaez"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb7",
+                        "name": "Kike Hernandez"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cd5",
+                        "name": "Evan Longoria"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92dbf",
+                        "name": "Alex Verdugo"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cc0",
+                        "name": "Hunter Renfroe"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e32",
+                        "name": "Pete Alonso"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Xander Bogaerts",
+                    "Pete Alonso",
+                    "J.D. Martinez",
+                    "Alex Verdugo",
+                    "Evan Longoria",
+                    "Hunter Renfroe",
+                    "Kike Hernandez",
+                    "Omar Narvaez"
+                ]
+            },
+            "salaryUsed": 49900,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$2,000.00"
+                },
+                "cash": 2000
+            },
+            "createdAt": "2021-04-06T13:31:35.771Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981be",
+            "userEntryCount": 150,
+            "siteScreenName": "bkreider",
+            "rgUserId": "376751",
+            "rgUserName": "bkreider",
+            "user": {
+                "rgUserName": "bkreider",
+                "rgUserId": "376751",
+                "siteEntryName": "bkreider"
+            },
+            "siteEntryId": "2622456656",
+            "rank": 7,
+            "timeRemaining": 0,
+            "points": 170.55,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8c",
+                        "name": "Yermin Mercedes"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cbf",
+                        "name": "Marwin Gonzalez"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ccb",
+                        "name": "Yuli Gurriel"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cc0",
+                        "name": "Hunter Renfroe"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c88",
+                        "name": "Franchy Cordero"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e53",
+                        "name": "Alex Bregman"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Xander Bogaerts",
+                    "Alex Bregman",
+                    "J.D. Martinez",
+                    "Yuli Gurriel",
+                    "Hunter Renfroe",
+                    "Marwin Gonzalez",
+                    "Franchy Cordero",
+                    "Yermin Mercedes"
+                ]
+            },
+            "salaryUsed": 49600,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$1,500.00"
+                },
+                "cash": 1250
+            },
+            "createdAt": "2021-04-06T13:31:35.771Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981bf",
+            "userEntryCount": 150,
+            "siteScreenName": "mrgoodseats",
+            "user": {
+                "siteEntryName": "mrgoodseats"
+            },
+            "siteEntryId": "2622288564",
+            "rank": 7,
+            "timeRemaining": 0,
+            "points": 170.55,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8c",
+                        "name": "Yermin Mercedes"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb7",
+                        "name": "Kike Hernandez"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ccb",
+                        "name": "Yuli Gurriel"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92dbf",
+                        "name": "Alex Verdugo"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c88",
+                        "name": "Franchy Cordero"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e53",
+                        "name": "Alex Bregman"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Xander Bogaerts",
+                    "Alex Bregman",
+                    "J.D. Martinez",
+                    "Alex Verdugo",
+                    "Yuli Gurriel",
+                    "Kike Hernandez",
+                    "Franchy Cordero",
+                    "Yermin Mercedes"
+                ]
+            },
+            "salaryUsed": 50000,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$1,500.00"
+                },
+                "cash": 1250
+            },
+            "createdAt": "2021-04-06T13:31:35.771Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981bd",
+            "userEntryCount": 150,
+            "siteScreenName": "BRORANNOSAURUS_FLEX",
+            "rgUserId": "121679",
+            "rgUserName": "BRORANNOSAURUS_FLEX",
+            "user": {
+                "rgUserName": "BRORANNOSAURUS_FLEX",
+                "rgUserId": "121679",
+                "siteEntryName": "BRORANNOSAURUS_FLEX"
+            },
+            "siteEntryId": "2622627073",
+            "rank": 9,
+            "timeRemaining": 0,
+            "points": 169.55,
+            "lineup": {
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb6",
+                        "name": "Jake Cronenworth"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb7",
+                        "name": "Kike Hernandez"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cd5",
+                        "name": "Evan Longoria"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92dbf",
+                        "name": "Alex Verdugo"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c85",
+                        "name": "Jurickson Profar"
+                    }
+                ],
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e31",
+                        "name": "Christian Vazquez"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Xander Bogaerts",
+                    "Christian Vazquez",
+                    "J.D. Martinez",
+                    "Alex Verdugo",
+                    "Evan Longoria",
+                    "Kike Hernandez",
+                    "Jake Cronenworth",
+                    "Jurickson Profar"
+                ]
+            },
+            "salaryUsed": 49800,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$1,000.00"
+                },
+                "cash": 1000
+            },
+            "createdAt": "2021-04-06T13:31:35.770Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981bc",
+            "userEntryCount": 3,
+            "siteScreenName": "Styleez",
+            "rgUserId": "17126",
+            "rgUserName": "Styleez",
+            "user": {
+                "rgUserName": "Styleez",
+                "rgUserId": "17126",
+                "siteEntryName": "Styleez"
+            },
+            "siteEntryId": "2623072509",
+            "rank": 10,
+            "timeRemaining": 0,
+            "points": 169.15,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8b",
+                        "name": "Omar Narvaez"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb7",
+                        "name": "Kike Hernandez"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ccc",
+                        "name": "Wilmer Flores"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e4a",
+                        "name": "Justin Turner"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e5b",
+                        "name": "Cody Bellinger"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cc0",
+                        "name": "Hunter Renfroe"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ed3",
+                        "name": "Dustin May"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Dustin May",
+                    "Carlos Rodon",
+                    "Cody Bellinger",
+                    "Xander Bogaerts",
+                    "Justin Turner",
+                    "J.D. Martinez",
+                    "Wilmer Flores",
+                    "Hunter Renfroe",
+                    "Kike Hernandez",
+                    "Omar Narvaez"
+                ]
+            },
+            "salaryUsed": 50000,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$1,000.00"
+                },
+                "cash": 1000
+            },
+            "createdAt": "2021-04-06T13:31:35.770Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981bb",
+            "userEntryCount": 1,
+            "siteScreenName": "bmeservey13",
+            "user": {
+                "siteEntryName": "bmeservey13"
+            },
+            "siteEntryId": "2623145573",
+            "rank": 11,
+            "timeRemaining": 0,
+            "points": 168.7,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8c",
+                        "name": "Yermin Mercedes"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb7",
+                        "name": "Kike Hernandez"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e32",
+                        "name": "Pete Alonso"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e4e",
+                        "name": "Anthony Rendon"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e60",
+                        "name": "Mike Trout"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92dbf",
+                        "name": "Alex Verdugo"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e90",
+                        "name": "Nick Pivetta"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Nick Pivetta",
+                    "Carlos Rodon",
+                    "Mike Trout",
+                    "Xander Bogaerts",
+                    "Anthony Rendon",
+                    "Pete Alonso",
+                    "J.D. Martinez",
+                    "Alex Verdugo",
+                    "Kike Hernandez",
+                    "Yermin Mercedes"
+                ]
+            },
+            "salaryUsed": 50000,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$700.00"
+                },
+                "cash": 700
+            },
+            "createdAt": "2021-04-06T13:31:35.770Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981ba",
+            "userEntryCount": 150,
+            "siteScreenName": "Larrioto",
+            "rgUserId": "116632",
+            "rgUserName": "Larrioto",
+            "user": {
+                "rgUserName": "Larrioto",
+                "rgUserId": "116632",
+                "siteEntryName": "Larrioto"
+            },
+            "siteEntryId": "2622661740",
+            "rank": 12,
+            "timeRemaining": 0,
+            "points": 167.55,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8c",
+                        "name": "Yermin Mercedes"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb6",
+                        "name": "Jake Cronenworth"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb7",
+                        "name": "Kike Hernandez"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92dbf",
+                        "name": "Alex Verdugo"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c88",
+                        "name": "Franchy Cordero"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e53",
+                        "name": "Alex Bregman"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Xander Bogaerts",
+                    "Alex Bregman",
+                    "J.D. Martinez",
+                    "Alex Verdugo",
+                    "Kike Hernandez",
+                    "Jake Cronenworth",
+                    "Franchy Cordero",
+                    "Yermin Mercedes"
+                ]
+            },
+            "salaryUsed": 49700,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$700.00"
+                },
+                "cash": 700
+            },
+            "createdAt": "2021-04-06T13:31:35.770Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981b9",
+            "userEntryCount": 150,
+            "siteScreenName": "squirrelpatroldk",
+            "rgUserId": "77831",
+            "rgUserName": "squirrelpatrol",
+            "user": {
+                "rgUserName": "squirrelpatrol",
+                "rgUserId": "77831",
+                "siteEntryName": "squirrelpatroldk"
+            },
+            "siteEntryId": "2623402382",
+            "rank": 13,
+            "timeRemaining": 0,
+            "points": 166.55,
+            "lineup": {
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb6",
+                        "name": "Jake Cronenworth"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb7",
+                        "name": "Kike Hernandez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c85",
+                        "name": "Jurickson Profar"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c70",
+                        "name": "Zach McKinstry"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e16",
+                        "name": "Chris Taylor"
+                    }
+                ],
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e37",
+                        "name": "Will Smith"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e4a",
+                        "name": "Justin Turner"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e5a",
+                        "name": "Corey Seager"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Corey Seager",
+                    "Justin Turner",
+                    "Will Smith",
+                    "Chris Taylor",
+                    "Kike Hernandez",
+                    "Jake Cronenworth",
+                    "Jurickson Profar",
+                    "Zach McKinstry"
+                ]
+            },
+            "salaryUsed": 49900,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$700.00"
+                },
+                "cash": 700
+            },
+            "createdAt": "2021-04-06T13:31:35.770Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981b8",
+            "userEntryCount": 150,
+            "siteScreenName": "fjbourne",
+            "rgUserId": "143416",
+            "rgUserName": "fjbourne",
+            "user": {
+                "rgUserName": "fjbourne",
+                "rgUserId": "143416",
+                "siteEntryName": "fjbourne"
+            },
+            "siteEntryId": "2622511671",
+            "rank": 14,
+            "timeRemaining": 0,
+            "points": 165.7,
+            "lineup": {
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb7",
+                        "name": "Kike Hernandez"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ccb",
+                        "name": "Yuli Gurriel"
+                    }
+                ],
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e31",
+                        "name": "Christian Vazquez"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e53",
+                        "name": "Alex Bregman"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e60",
+                        "name": "Mike Trout"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c88",
+                        "name": "Franchy Cordero"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e90",
+                        "name": "Nick Pivetta"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Nick Pivetta",
+                    "Carlos Rodon",
+                    "Mike Trout",
+                    "Xander Bogaerts",
+                    "Alex Bregman",
+                    "Christian Vazquez",
+                    "J.D. Martinez",
+                    "Yuli Gurriel",
+                    "Kike Hernandez",
+                    "Franchy Cordero"
+                ]
+            },
+            "salaryUsed": 49700,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$700.00"
+                },
+                "cash": 700
+            },
+            "createdAt": "2021-04-06T13:31:35.770Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981b7",
+            "userEntryCount": 1,
+            "siteScreenName": "JDfrom96",
+            "user": {
+                "siteEntryName": "JDfrom96"
+            },
+            "siteEntryId": "2623466775",
+            "rank": 15,
+            "timeRemaining": 0,
+            "points": 165.6,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8c",
+                        "name": "Yermin Mercedes"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ca8",
+                        "name": "Donovan Solano"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cd5",
+                        "name": "Evan Longoria"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cda",
+                        "name": "Jared Walsh"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e33",
+                        "name": "Francisco Lindor"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e60",
+                        "name": "Mike Trout"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c70",
+                        "name": "Zach McKinstry"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c58",
+                        "name": "Darin Ruf"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ed3",
+                        "name": "Dustin May"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Dustin May",
+                    "Mike Trout",
+                    "Francisco Lindor",
+                    "Jared Walsh",
+                    "Evan Longoria",
+                    "Donovan Solano",
+                    "Zach McKinstry",
+                    "Yermin Mercedes",
+                    "Darin Ruf"
+                ]
+            },
+            "salaryUsed": 49100,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$700.00"
+                },
+                "cash": 700
+            },
+            "createdAt": "2021-04-06T13:31:35.770Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981b3",
+            "userEntryCount": 1,
+            "siteScreenName": "umaroons",
+            "user": {
+                "siteEntryName": "umaroons"
+            },
+            "siteEntryId": "2623434003",
+            "rank": 16,
+            "timeRemaining": 0,
+            "points": 165.55,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8b",
+                        "name": "Omar Narvaez"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb7",
+                        "name": "Kike Hernandez"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cbc",
+                        "name": "Jose Iglesias"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cda",
+                        "name": "Jared Walsh"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e5c",
+                        "name": "Manny Machado"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e60",
+                        "name": "Mike Trout"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c88",
+                        "name": "Franchy Cordero"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Mike Trout",
+                    "Manny Machado",
+                    "J.D. Martinez",
+                    "Jared Walsh",
+                    "Jose Iglesias",
+                    "Kike Hernandez",
+                    "Franchy Cordero",
+                    "Omar Narvaez"
+                ]
+            },
+            "salaryUsed": 50000,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$500.00"
+                },
+                "cash": 500
+            },
+            "createdAt": "2021-04-06T13:31:35.769Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981b4",
+            "userEntryCount": 150,
+            "siteScreenName": "TinkyTyler",
+            "rgUserId": "127195",
+            "rgUserName": "TinkyTyler",
+            "user": {
+                "rgUserName": "TinkyTyler",
+                "rgUserId": "127195",
+                "siteEntryName": "TinkyTyler"
+            },
+            "siteEntryId": "2623393081",
+            "rank": 16,
+            "timeRemaining": 0,
+            "points": 165.55,
+            "lineup": {
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ca8",
+                        "name": "Donovan Solano"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ccc",
+                        "name": "Wilmer Flores"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cd5",
+                        "name": "Evan Longoria"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92dbf",
+                        "name": "Alex Verdugo"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c58",
+                        "name": "Darin Ruf"
+                    }
+                ],
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e31",
+                        "name": "Christian Vazquez"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Xander Bogaerts",
+                    "Christian Vazquez",
+                    "J.D. Martinez",
+                    "Alex Verdugo",
+                    "Evan Longoria",
+                    "Wilmer Flores",
+                    "Donovan Solano",
+                    "Darin Ruf"
+                ]
+            },
+            "salaryUsed": 49500,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$500.00"
+                },
+                "cash": 500
+            },
+            "createdAt": "2021-04-06T13:31:35.770Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981b5",
+            "userEntryCount": 1,
+            "siteScreenName": "mcbreezy32189",
+            "user": {
+                "siteEntryName": "mcbreezy32189"
+            },
+            "siteEntryId": "2623245512",
+            "rank": 16,
+            "timeRemaining": 0,
+            "points": 165.55,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8b",
+                        "name": "Omar Narvaez"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cbf",
+                        "name": "Marwin Gonzalez"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cd5",
+                        "name": "Evan Longoria"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e32",
+                        "name": "Pete Alonso"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e48",
+                        "name": "Javier Baez"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e60",
+                        "name": "Mike Trout"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cdc",
+                        "name": "Brandon Nimmo"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c70",
+                        "name": "Zach McKinstry"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Mike Trout",
+                    "Javier Baez",
+                    "Pete Alonso",
+                    "Brandon Nimmo",
+                    "Evan Longoria",
+                    "Marwin Gonzalez",
+                    "Zach McKinstry",
+                    "Omar Narvaez"
+                ]
+            },
+            "salaryUsed": 49900,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$500.00"
+                },
+                "cash": 500
+            },
+            "createdAt": "2021-04-06T13:31:35.770Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981b6",
+            "userEntryCount": 1,
+            "siteScreenName": "Sgbtiger",
+            "user": {
+                "siteEntryName": "Sgbtiger"
+            },
+            "siteEntryId": "2623208178",
+            "rank": 16,
+            "timeRemaining": 0,
+            "points": 165.55,
+            "lineup": {
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ca8",
+                        "name": "Donovan Solano"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb6",
+                        "name": "Jake Cronenworth"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e21",
+                        "name": "J.D. Davis"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cc0",
+                        "name": "Hunter Renfroe"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c7a",
+                        "name": "Mauricio Dubon"
+                    }
+                ],
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e3c",
+                        "name": "Yasmani Grandal"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Xander Bogaerts",
+                    "Yasmani Grandal",
+                    "J.D. Martinez",
+                    "J.D. Davis",
+                    "Hunter Renfroe",
+                    "Jake Cronenworth",
+                    "Donovan Solano",
+                    "Mauricio Dubon"
+                ]
+            },
+            "salaryUsed": 49900,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$500.00"
+                },
+                "cash": 500
+            },
+            "createdAt": "2021-04-06T13:31:35.770Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981b1",
+            "userEntryCount": 5,
+            "siteScreenName": "kmikef84",
+            "user": {
+                "siteEntryName": "kmikef84"
+            },
+            "siteEntryId": "2623401355",
+            "rank": 20,
+            "timeRemaining": 0,
+            "points": 165.15,
+            "lineup": {
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb7",
+                        "name": "Kike Hernandez"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ccb",
+                        "name": "Yuli Gurriel"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92dbf",
+                        "name": "Alex Verdugo"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c6c",
+                        "name": "Jake Marisnick"
+                    }
+                ],
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e31",
+                        "name": "Christian Vazquez"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e53",
+                        "name": "Alex Bregman"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ed3",
+                        "name": "Dustin May"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Dustin May",
+                    "Carlos Rodon",
+                    "Xander Bogaerts",
+                    "Alex Bregman",
+                    "Christian Vazquez",
+                    "J.D. Martinez",
+                    "Alex Verdugo",
+                    "Yuli Gurriel",
+                    "Kike Hernandez",
+                    "Jake Marisnick"
+                ]
+            },
+            "salaryUsed": 49600,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$500.00"
+                },
+                "cash": 400
+            },
+            "createdAt": "2021-04-06T13:31:35.769Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981b2",
+            "userEntryCount": 1,
+            "siteScreenName": "pedro_aka",
+            "user": {
+                "siteEntryName": "pedro_aka"
+            },
+            "siteEntryId": "2623268218",
+            "rank": 20,
+            "timeRemaining": 0,
+            "points": 165.15,
+            "lineup": {
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ccc",
+                        "name": "Wilmer Flores"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ccb",
+                        "name": "Yuli Gurriel"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e16",
+                        "name": "Chris Taylor"
+                    }
+                ],
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e36",
+                        "name": "Willson Contreras"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e48",
+                        "name": "Javier Baez"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e60",
+                        "name": "Mike Trout"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c39",
+                        "name": "Adam Haseley"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ed3",
+                        "name": "Dustin May"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Dustin May",
+                    "Carlos Rodon",
+                    "Mike Trout",
+                    "Javier Baez",
+                    "Willson Contreras",
+                    "J.D. Martinez",
+                    "Chris Taylor",
+                    "Yuli Gurriel",
+                    "Wilmer Flores",
+                    "Adam Haseley"
+                ]
+            },
+            "salaryUsed": 49900,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$500.00"
+                },
+                "cash": 400
+            },
+            "createdAt": "2021-04-06T13:31:35.769Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981b0",
+            "userEntryCount": 150,
+            "siteScreenName": "anilprao88",
+            "rgUserId": "76031",
+            "rgUserName": "anilprao88",
+            "user": {
+                "rgUserName": "anilprao88",
+                "rgUserId": "76031",
+                "siteEntryName": "anilprao88"
+            },
+            "siteEntryId": "2622847405",
+            "rank": 22,
+            "timeRemaining": 0,
+            "points": 164.55,
+            "lineup": {
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c70",
+                        "name": "Zach McKinstry"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ccb",
+                        "name": "Yuli Gurriel"
+                    }
+                ],
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e37",
+                        "name": "Will Smith"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e4a",
+                        "name": "Justin Turner"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e5a",
+                        "name": "Corey Seager"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e64",
+                        "name": "Mookie Betts"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e12",
+                        "name": "Kyle Tucker"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c57",
+                        "name": "Myles Straw"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92eca",
+                        "name": "Trevor Williams"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Trevor Williams",
+                    "Carlos Rodon",
+                    "Mookie Betts",
+                    "Corey Seager",
+                    "Justin Turner",
+                    "Will Smith",
+                    "Kyle Tucker",
+                    "Yuli Gurriel",
+                    "Zach McKinstry",
+                    "Myles Straw"
+                ]
+            },
+            "salaryUsed": 49800,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$300.00"
+                },
+                "cash": 300
+            },
+            "createdAt": "2021-04-06T13:31:35.769Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981af",
+            "userEntryCount": 1,
+            "siteScreenName": "drebomd",
+            "user": {
+                "siteEntryName": "drebomd"
+            },
+            "siteEntryId": "2622092289",
+            "rank": 23,
+            "timeRemaining": 0,
+            "points": 163.6,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8c",
+                        "name": "Yermin Mercedes"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c5f",
+                        "name": "Evan White"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c76",
+                        "name": "Luis Urias"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ca8",
+                        "name": "Donovan Solano"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e5a",
+                        "name": "Corey Seager"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e60",
+                        "name": "Mike Trout"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c85",
+                        "name": "Jurickson Profar"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ed3",
+                        "name": "Dustin May"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Dustin May",
+                    "Mike Trout",
+                    "Corey Seager",
+                    "J.D. Martinez",
+                    "Donovan Solano",
+                    "Jurickson Profar",
+                    "Luis Urias",
+                    "Evan White",
+                    "Yermin Mercedes"
+                ]
+            },
+            "salaryUsed": 49900,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$300.00"
+                },
+                "cash": 300
+            },
+            "createdAt": "2021-04-06T13:31:35.769Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981ae",
+            "userEntryCount": 150,
+            "siteScreenName": "Felixingenium",
+            "rgUserId": "140038",
+            "rgUserName": "Enlightenmint",
+            "user": {
+                "rgUserName": "Enlightenmint",
+                "rgUserId": "140038",
+                "siteEntryName": "Felixingenium"
+            },
+            "siteEntryId": "2622453770",
+            "rank": 24,
+            "timeRemaining": 0,
+            "points": 163.55,
+            "lineup": {
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c87",
+                        "name": "Yoshi Tsutsugo"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb7",
+                        "name": "Kike Hernandez"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c92",
+                        "name": "Kevin Kiermaier"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c70",
+                        "name": "Zach McKinstry"
+                    }
+                ],
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e37",
+                        "name": "Will Smith"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e4a",
+                        "name": "Justin Turner"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e5a",
+                        "name": "Corey Seager"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Corey Seager",
+                    "Justin Turner",
+                    "Will Smith",
+                    "J.D. Martinez",
+                    "Kike Hernandez",
+                    "Kevin Kiermaier",
+                    "Yoshi Tsutsugo",
+                    "Zach McKinstry"
+                ]
+            },
+            "salaryUsed": 50000,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$300.00"
+                },
+                "cash": 300
+            },
+            "createdAt": "2021-04-06T13:31:35.769Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981ad",
+            "userEntryCount": 150,
+            "siteScreenName": "drfunkk",
+            "user": {
+                "siteEntryName": "drfunkk"
+            },
+            "siteEntryId": "2622612331",
+            "rank": 25,
+            "timeRemaining": 0,
+            "points": 162.55,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8b",
+                        "name": "Omar Narvaez"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb1",
+                        "name": "David Bote"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cd5",
+                        "name": "Evan Longoria"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cda",
+                        "name": "Jared Walsh"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e55",
+                        "name": "Christian Yelich"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c6c",
+                        "name": "Jake Marisnick"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e5a",
+                        "name": "Corey Seager"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Corey Seager",
+                    "Christian Yelich",
+                    "J.D. Martinez",
+                    "Jared Walsh",
+                    "Evan Longoria",
+                    "David Bote",
+                    "Jake Marisnick",
+                    "Omar Narvaez"
+                ]
+            },
+            "salaryUsed": 49700,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$300.00"
+                },
+                "cash": 300
+            },
+            "createdAt": "2021-04-06T13:31:35.769Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981ac",
+            "userEntryCount": 150,
+            "siteScreenName": "ending",
+            "user": {
+                "siteEntryName": "ending"
+            },
+            "siteEntryId": "2622927102",
+            "rank": 26,
+            "timeRemaining": 0,
+            "points": 162.15,
+            "lineup": {
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c70",
+                        "name": "Zach McKinstry"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c6c",
+                        "name": "Jake Marisnick"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c58",
+                        "name": "Darin Ruf"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb6",
+                        "name": "Jake Cronenworth"
+                    }
+                ],
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e37",
+                        "name": "Will Smith"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e4a",
+                        "name": "Justin Turner"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e4b",
+                        "name": "Max Muncy"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e5a",
+                        "name": "Corey Seager"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e90",
+                        "name": "Nick Pivetta"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Nick Pivetta",
+                    "Corey Seager",
+                    "Max Muncy",
+                    "Justin Turner",
+                    "Will Smith",
+                    "Jake Cronenworth",
+                    "Zach McKinstry",
+                    "Jake Marisnick",
+                    "Darin Ruf"
+                ]
+            },
+            "salaryUsed": 50000,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$200.00"
+                },
+                "cash": 200
+            },
+            "createdAt": "2021-04-06T13:31:35.769Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981ab",
+            "userEntryCount": 150,
+            "siteScreenName": "Larrioto",
+            "rgUserId": "116632",
+            "rgUserName": "Larrioto",
+            "user": {
+                "rgUserName": "Larrioto",
+                "rgUserId": "116632",
+                "siteEntryName": "Larrioto"
+            },
+            "siteEntryId": "2622661794",
+            "rank": 27,
+            "timeRemaining": 0,
+            "points": 161.7,
+            "lineup": {
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cbf",
+                        "name": "Marwin Gonzalez"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92dbf",
+                        "name": "Alex Verdugo"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cc0",
+                        "name": "Hunter Renfroe"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e32",
+                        "name": "Pete Alonso"
+                    }
+                ],
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e36",
+                        "name": "Willson Contreras"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e53",
+                        "name": "Alex Bregman"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e90",
+                        "name": "Nick Pivetta"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Nick Pivetta",
+                    "Carlos Rodon",
+                    "Xander Bogaerts",
+                    "Alex Bregman",
+                    "Willson Contreras",
+                    "Pete Alonso",
+                    "J.D. Martinez",
+                    "Alex Verdugo",
+                    "Hunter Renfroe",
+                    "Marwin Gonzalez"
+                ]
+            },
+            "salaryUsed": 49900,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$200.00"
+                },
+                "cash": 200
+            },
+            "createdAt": "2021-04-06T13:31:35.769Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981aa",
+            "userEntryCount": 3,
+            "siteScreenName": "orenict",
+            "rgUserId": "232851",
+            "rgUserName": "orenagain",
+            "user": {
+                "rgUserName": "orenagain",
+                "rgUserId": "232851",
+                "siteEntryName": "orenict"
+            },
+            "siteEntryId": "2622985280",
+            "rank": 28,
+            "timeRemaining": 0,
+            "points": 161.6,
+            "lineup": {
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c54",
+                        "name": "Andrew Vaughn"
+                    }
+                ],
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8c",
+                        "name": "Yermin Mercedes"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92dbf",
+                        "name": "Alex Verdugo"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c88",
+                        "name": "Franchy Cordero"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c58",
+                        "name": "Darin Ruf"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e16",
+                        "name": "Chris Taylor"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e4a",
+                        "name": "Justin Turner"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e5a",
+                        "name": "Corey Seager"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ed3",
+                        "name": "Dustin May"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Dustin May",
+                    "Corey Seager",
+                    "Justin Turner",
+                    "Chris Taylor",
+                    "Alex Verdugo",
+                    "Franchy Cordero",
+                    "Yermin Mercedes",
+                    "Darin Ruf",
+                    "Andrew Vaughn"
+                ]
+            },
+            "salaryUsed": 49500,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$200.00"
+                },
+                "cash": 200
+            },
+            "createdAt": "2021-04-06T13:31:35.769Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981a4",
+            "userEntryCount": 1,
+            "siteScreenName": "alldaybaby",
+            "rgUserId": "137294",
+            "rgUserName": "alldaybaby",
+            "user": {
+                "rgUserName": "alldaybaby",
+                "rgUserId": "137294",
+                "siteEntryName": "alldaybaby"
+            },
+            "siteEntryId": "2623267660",
+            "rank": 29,
+            "timeRemaining": 0,
+            "points": 161.55,
+            "lineup": {
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c54",
+                        "name": "Andrew Vaughn"
+                    }
+                ],
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8c",
+                        "name": "Yermin Mercedes"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cc3",
+                        "name": "Leury Garcia"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ccc",
+                        "name": "Wilmer Flores"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e60",
+                        "name": "Mike Trout"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92dbf",
+                        "name": "Alex Verdugo"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Mike Trout",
+                    "Xander Bogaerts",
+                    "J.D. Martinez",
+                    "Alex Verdugo",
+                    "Wilmer Flores",
+                    "Leury Garcia",
+                    "Yermin Mercedes",
+                    "Andrew Vaughn"
+                ]
+            },
+            "salaryUsed": 50000,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$200.00"
+                },
+                "cash": 200
+            },
+            "createdAt": "2021-04-06T13:31:35.768Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981a5",
+            "userEntryCount": 50,
+            "siteScreenName": "Wanna_Square_Up1567",
+            "rgUserId": "71702",
+            "rgUserName": "lmfaoyourface",
+            "user": {
+                "rgUserName": "lmfaoyourface",
+                "rgUserId": "71702",
+                "siteEntryName": "Wanna_Square_Up1567"
+            },
+            "siteEntryId": "2622936240",
+            "rank": 29,
+            "timeRemaining": 0,
+            "points": 161.55,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8c",
+                        "name": "Yermin Mercedes"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cbf",
+                        "name": "Marwin Gonzalez"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cda",
+                        "name": "Jared Walsh"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb7",
+                        "name": "Kike Hernandez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c88",
+                        "name": "Franchy Cordero"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e4e",
+                        "name": "Anthony Rendon"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Xander Bogaerts",
+                    "Anthony Rendon",
+                    "J.D. Martinez",
+                    "Jared Walsh",
+                    "Marwin Gonzalez",
+                    "Kike Hernandez",
+                    "Franchy Cordero",
+                    "Yermin Mercedes"
+                ]
+            },
+            "salaryUsed": 49600,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$200.00"
+                },
+                "cash": 200
+            },
+            "createdAt": "2021-04-06T13:31:35.768Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981a6",
+            "userEntryCount": 150,
+            "siteScreenName": "Felixingenium",
+            "rgUserId": "140038",
+            "rgUserName": "Enlightenmint",
+            "user": {
+                "rgUserName": "Enlightenmint",
+                "rgUserId": "140038",
+                "siteEntryName": "Felixingenium"
+            },
+            "siteEntryId": "2622453777",
+            "rank": 29,
+            "timeRemaining": 0,
+            "points": 161.55,
+            "lineup": {
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c70",
+                        "name": "Zach McKinstry"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb6",
+                        "name": "Jake Cronenworth"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92dbf",
+                        "name": "Alex Verdugo"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ccd",
+                        "name": "Tommy Pham"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c88",
+                        "name": "Franchy Cordero"
+                    }
+                ],
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e37",
+                        "name": "Will Smith"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e4a",
+                        "name": "Justin Turner"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e5a",
+                        "name": "Corey Seager"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Corey Seager",
+                    "Justin Turner",
+                    "Will Smith",
+                    "Alex Verdugo",
+                    "Tommy Pham",
+                    "Jake Cronenworth",
+                    "Franchy Cordero",
+                    "Zach McKinstry"
+                ]
+            },
+            "salaryUsed": 50000,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$200.00"
+                },
+                "cash": 200
+            },
+            "createdAt": "2021-04-06T13:31:35.768Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981a7",
+            "userEntryCount": 150,
+            "siteScreenName": "Felixingenium",
+            "rgUserId": "140038",
+            "rgUserName": "Enlightenmint",
+            "user": {
+                "rgUserName": "Enlightenmint",
+                "rgUserId": "140038",
+                "siteEntryName": "Felixingenium"
+            },
+            "siteEntryId": "2622453705",
+            "rank": 29,
+            "timeRemaining": 0,
+            "points": 161.55,
+            "lineup": {
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c70",
+                        "name": "Zach McKinstry"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cc0",
+                        "name": "Hunter Renfroe"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb7",
+                        "name": "Kike Hernandez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c88",
+                        "name": "Franchy Cordero"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92d30",
+                        "name": "Edwin Rios"
+                    }
+                ],
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e37",
+                        "name": "Will Smith"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e4a",
+                        "name": "Justin Turner"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e5a",
+                        "name": "Corey Seager"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Corey Seager",
+                    "Justin Turner",
+                    "Will Smith",
+                    "Edwin Rios",
+                    "Hunter Renfroe",
+                    "Kike Hernandez",
+                    "Franchy Cordero",
+                    "Zach McKinstry"
+                ]
+            },
+            "salaryUsed": 49800,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$200.00"
+                },
+                "cash": 200
+            },
+            "createdAt": "2021-04-06T13:31:35.768Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981a8",
+            "userEntryCount": 150,
+            "siteScreenName": "mrgoodseats",
+            "user": {
+                "siteEntryName": "mrgoodseats"
+            },
+            "siteEntryId": "2622288578",
+            "rank": 29,
+            "timeRemaining": 0,
+            "points": 161.55,
+            "lineup": {
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c87",
+                        "name": "Yoshi Tsutsugo"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb7",
+                        "name": "Kike Hernandez"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e21",
+                        "name": "J.D. Davis"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cc0",
+                        "name": "Hunter Renfroe"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c88",
+                        "name": "Franchy Cordero"
+                    }
+                ],
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e36",
+                        "name": "Willson Contreras"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Xander Bogaerts",
+                    "Willson Contreras",
+                    "J.D. Martinez",
+                    "J.D. Davis",
+                    "Hunter Renfroe",
+                    "Kike Hernandez",
+                    "Franchy Cordero",
+                    "Yoshi Tsutsugo"
+                ]
+            },
+            "salaryUsed": 49500,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$200.00"
+                },
+                "cash": 200
+            },
+            "createdAt": "2021-04-06T13:31:35.768Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981a9",
+            "userEntryCount": 150,
+            "siteScreenName": "youdacao",
+            "rgUserId": "41045",
+            "rgUserName": "youdacao",
+            "user": {
+                "rgUserName": "youdacao",
+                "rgUserId": "41045",
+                "siteEntryName": "youdacao"
+            },
+            "siteEntryId": "2621835688",
+            "rank": 29,
+            "timeRemaining": 0,
+            "points": 161.55,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8c",
+                        "name": "Yermin Mercedes"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c87",
+                        "name": "Yoshi Tsutsugo"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb7",
+                        "name": "Kike Hernandez"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92dbf",
+                        "name": "Alex Verdugo"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cc0",
+                        "name": "Hunter Renfroe"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e29",
+                        "name": "Yoan Moncada"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Xander Bogaerts",
+                    "Yoan Moncada",
+                    "J.D. Martinez",
+                    "Alex Verdugo",
+                    "Hunter Renfroe",
+                    "Kike Hernandez",
+                    "Yoshi Tsutsugo",
+                    "Yermin Mercedes"
+                ]
+            },
+            "salaryUsed": 49000,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$200.00"
+                },
+                "cash": 200
+            },
+            "createdAt": "2021-04-06T13:31:35.768Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981a3",
+            "userEntryCount": 150,
+            "siteScreenName": "wtread5",
+            "rgUserId": "415907",
+            "rgUserName": "Wtread5",
+            "user": {
+                "rgUserName": "Wtread5",
+                "rgUserId": "415907",
+                "siteEntryName": "wtread5"
+            },
+            "siteEntryId": "2621736201",
+            "rank": 35,
+            "timeRemaining": 0,
+            "points": 160.7,
+            "lineup": {
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb1",
+                        "name": "David Bote"
+                    }
+                ],
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e37",
+                        "name": "Will Smith"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e4b",
+                        "name": "Max Muncy"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e5a",
+                        "name": "Corey Seager"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e5c",
+                        "name": "Manny Machado"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e60",
+                        "name": "Mike Trout"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c85",
+                        "name": "Jurickson Profar"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c6c",
+                        "name": "Jake Marisnick"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e90",
+                        "name": "Nick Pivetta"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Nick Pivetta",
+                    "Carlos Rodon",
+                    "Mike Trout",
+                    "Manny Machado",
+                    "Corey Seager",
+                    "Max Muncy",
+                    "Will Smith",
+                    "David Bote",
+                    "Jurickson Profar",
+                    "Jake Marisnick"
+                ]
+            },
+            "salaryUsed": 49600,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$200.00"
+                },
+                "cash": 200
+            },
+            "createdAt": "2021-04-06T13:31:35.768Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a9819d",
+            "userEntryCount": 108,
+            "siteScreenName": "slickcowboy23915",
+            "rgUserId": "293483",
+            "rgUserName": "slickcowboy",
+            "user": {
+                "rgUserName": "slickcowboy",
+                "rgUserId": "293483",
+                "siteEntryName": "slickcowboy23915"
+            },
+            "siteEntryId": "2623504714",
+            "rank": 36,
+            "timeRemaining": 0,
+            "points": 160.55,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8c",
+                        "name": "Yermin Mercedes"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb7",
+                        "name": "Kike Hernandez"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cda",
+                        "name": "Jared Walsh"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92dbf",
+                        "name": "Alex Verdugo"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cbf",
+                        "name": "Marwin Gonzalez"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e29",
+                        "name": "Yoan Moncada"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Xander Bogaerts",
+                    "Yoan Moncada",
+                    "J.D. Martinez",
+                    "Alex Verdugo",
+                    "Jared Walsh",
+                    "Marwin Gonzalez",
+                    "Kike Hernandez",
+                    "Yermin Mercedes"
+                ]
+            },
+            "salaryUsed": 50000,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$150.00"
+                },
+                "cash": 150
+            },
+            "createdAt": "2021-04-06T13:31:35.767Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a9819e",
+            "userEntryCount": 86,
+            "siteScreenName": "Dudeoflife",
+            "rgUserId": "35563",
+            "rgUserName": "dudeoflife",
+            "user": {
+                "rgUserName": "dudeoflife",
+                "rgUserId": "35563",
+                "siteEntryName": "Dudeoflife"
+            },
+            "siteEntryId": "2623364485",
+            "rank": 36,
+            "timeRemaining": 0,
+            "points": 160.55,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8c",
+                        "name": "Yermin Mercedes"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb7",
+                        "name": "Kike Hernandez"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ccb",
+                        "name": "Yuli Gurriel"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92dbf",
+                        "name": "Alex Verdugo"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cc0",
+                        "name": "Hunter Renfroe"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2b",
+                        "name": "Carlos Correa"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e53",
+                        "name": "Alex Bregman"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Alex Bregman",
+                    "Carlos Correa",
+                    "J.D. Martinez",
+                    "Alex Verdugo",
+                    "Yuli Gurriel",
+                    "Hunter Renfroe",
+                    "Kike Hernandez",
+                    "Yermin Mercedes"
+                ]
+            },
+            "salaryUsed": 49900,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$150.00"
+                },
+                "cash": 150
+            },
+            "createdAt": "2021-04-06T13:31:35.767Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a9819f",
+            "userEntryCount": 150,
+            "siteScreenName": "anilprao88",
+            "rgUserId": "76031",
+            "rgUserName": "anilprao88",
+            "user": {
+                "rgUserName": "anilprao88",
+                "rgUserId": "76031",
+                "siteEntryName": "anilprao88"
+            },
+            "siteEntryId": "2622847417",
+            "rank": 36,
+            "timeRemaining": 0,
+            "points": 160.55,
+            "lineup": {
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cbf",
+                        "name": "Marwin Gonzalez"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92d30",
+                        "name": "Edwin Rios"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92dbf",
+                        "name": "Alex Verdugo"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c88",
+                        "name": "Franchy Cordero"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c70",
+                        "name": "Zach McKinstry"
+                    }
+                ],
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e31",
+                        "name": "Christian Vazquez"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e4a",
+                        "name": "Justin Turner"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Xander Bogaerts",
+                    "Justin Turner",
+                    "Christian Vazquez",
+                    "Alex Verdugo",
+                    "Edwin Rios",
+                    "Marwin Gonzalez",
+                    "Franchy Cordero",
+                    "Zach McKinstry"
+                ]
+            },
+            "salaryUsed": 50000,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$150.00"
+                },
+                "cash": 150
+            },
+            "createdAt": "2021-04-06T13:31:35.767Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981a0",
+            "userEntryCount": 150,
+            "siteScreenName": "BRORANNOSAURUS_FLEX",
+            "rgUserId": "121679",
+            "rgUserName": "BRORANNOSAURUS_FLEX",
+            "user": {
+                "rgUserName": "BRORANNOSAURUS_FLEX",
+                "rgUserId": "121679",
+                "siteEntryName": "BRORANNOSAURUS_FLEX"
+            },
+            "siteEntryId": "2622627063",
+            "rank": 36,
+            "timeRemaining": 0,
+            "points": 160.55,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8b",
+                        "name": "Omar Narvaez"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb6",
+                        "name": "Jake Cronenworth"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cbf",
+                        "name": "Marwin Gonzalez"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92dbf",
+                        "name": "Alex Verdugo"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c88",
+                        "name": "Franchy Cordero"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e47",
+                        "name": "Rafael Devers"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e5a",
+                        "name": "Corey Seager"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Corey Seager",
+                    "Rafael Devers",
+                    "J.D. Martinez",
+                    "Alex Verdugo",
+                    "Marwin Gonzalez",
+                    "Jake Cronenworth",
+                    "Franchy Cordero",
+                    "Omar Narvaez"
+                ]
+            },
+            "salaryUsed": 49600,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$150.00"
+                },
+                "cash": 150
+            },
+            "createdAt": "2021-04-06T13:31:35.767Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981a1",
+            "userEntryCount": 150,
+            "siteScreenName": "mrgoodseats",
+            "user": {
+                "siteEntryName": "mrgoodseats"
+            },
+            "siteEntryId": "2622288444",
+            "rank": 36,
+            "timeRemaining": 0,
+            "points": 160.55,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8b",
+                        "name": "Omar Narvaez"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb6",
+                        "name": "Jake Cronenworth"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cbf",
+                        "name": "Marwin Gonzalez"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92dbf",
+                        "name": "Alex Verdugo"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb7",
+                        "name": "Kike Hernandez"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e41",
+                        "name": "Kris Bryant"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Xander Bogaerts",
+                    "Kris Bryant",
+                    "J.D. Martinez",
+                    "Alex Verdugo",
+                    "Marwin Gonzalez",
+                    "Kike Hernandez",
+                    "Jake Cronenworth",
+                    "Omar Narvaez"
+                ]
+            },
+            "salaryUsed": 49800,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$150.00"
+                },
+                "cash": 150
+            },
+            "createdAt": "2021-04-06T13:31:35.768Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a981a2",
+            "userEntryCount": 5,
+            "siteScreenName": "BronxBomber2",
+            "rgUserId": "147546",
+            "rgUserName": "TheBronxBomber2",
+            "user": {
+                "rgUserName": "TheBronxBomber2",
+                "rgUserId": "147546",
+                "siteEntryName": "BronxBomber2"
+            },
+            "siteEntryId": "2622043562",
+            "rank": 36,
+            "timeRemaining": 0,
+            "points": 160.55,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8c",
+                        "name": "Yermin Mercedes"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cbc",
+                        "name": "Jose Iglesias"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ccb",
+                        "name": "Yuli Gurriel"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e12",
+                        "name": "Kyle Tucker"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c6c",
+                        "name": "Jake Marisnick"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e44",
+                        "name": "Jose Altuve"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e53",
+                        "name": "Alex Bregman"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Alex Bregman",
+                    "Jose Altuve",
+                    "J.D. Martinez",
+                    "Kyle Tucker",
+                    "Yuli Gurriel",
+                    "Jose Iglesias",
+                    "Jake Marisnick",
+                    "Yermin Mercedes"
+                ]
+            },
+            "salaryUsed": 49700,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$150.00"
+                },
+                "cash": 150
+            },
+            "createdAt": "2021-04-06T13:31:35.768Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a9819a",
+            "userEntryCount": 3,
+            "siteScreenName": "motiger25",
+            "user": {
+                "siteEntryName": "motiger25"
+            },
+            "siteEntryId": "2623026990",
+            "rank": 42,
+            "timeRemaining": 0,
+            "points": 159.55,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8b",
+                        "name": "Omar Narvaez"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c87",
+                        "name": "Yoshi Tsutsugo"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb6",
+                        "name": "Jake Cronenworth"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cdb",
+                        "name": "Aledmys Diaz"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e3f",
+                        "name": "Randy Arozarena"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92dbf",
+                        "name": "Alex Verdugo"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Xander Bogaerts",
+                    "Randy Arozarena",
+                    "J.D. Martinez",
+                    "Alex Verdugo",
+                    "Aledmys Diaz",
+                    "Jake Cronenworth",
+                    "Yoshi Tsutsugo",
+                    "Omar Narvaez"
+                ]
+            },
+            "salaryUsed": 49700,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$150.00"
+                },
+                "cash": 150
+            },
+            "createdAt": "2021-04-06T13:31:35.767Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a9819b",
+            "userEntryCount": 150,
+            "siteScreenName": "mrgoodseats",
+            "user": {
+                "siteEntryName": "mrgoodseats"
+            },
+            "siteEntryId": "2622288531",
+            "rank": 42,
+            "timeRemaining": 0,
+            "points": 159.55,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8b",
+                        "name": "Omar Narvaez"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cbf",
+                        "name": "Marwin Gonzalez"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ca1",
+                        "name": "Mitch Haniger"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c88",
+                        "name": "Franchy Cordero"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e32",
+                        "name": "Pete Alonso"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e47",
+                        "name": "Rafael Devers"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Xander Bogaerts",
+                    "Rafael Devers",
+                    "Pete Alonso",
+                    "J.D. Martinez",
+                    "Marwin Gonzalez",
+                    "Mitch Haniger",
+                    "Franchy Cordero",
+                    "Omar Narvaez"
+                ]
+            },
+            "salaryUsed": 50000,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$150.00"
+                },
+                "cash": 150
+            },
+            "createdAt": "2021-04-06T13:31:35.767Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a9819c",
+            "userEntryCount": 150,
+            "siteScreenName": "ahitspat",
+            "rgUserId": "112690",
+            "rgUserName": "ahitspat12345",
+            "user": {
+                "rgUserName": "ahitspat12345",
+                "rgUserId": "112690",
+                "siteEntryName": "ahitspat"
+            },
+            "siteEntryId": "2621878151",
+            "rank": 42,
+            "timeRemaining": 0,
+            "points": 159.55,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8c",
+                        "name": "Yermin Mercedes"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb6",
+                        "name": "Jake Cronenworth"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb7",
+                        "name": "Kike Hernandez"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92dbf",
+                        "name": "Alex Verdugo"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cc0",
+                        "name": "Hunter Renfroe"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e41",
+                        "name": "Kris Bryant"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Xander Bogaerts",
+                    "Kris Bryant",
+                    "J.D. Martinez",
+                    "Alex Verdugo",
+                    "Hunter Renfroe",
+                    "Kike Hernandez",
+                    "Jake Cronenworth",
+                    "Yermin Mercedes"
+                ]
+            },
+            "salaryUsed": 49900,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$150.00"
+                },
+                "cash": 150
+            },
+            "createdAt": "2021-04-06T13:31:35.767Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a98198",
+            "userEntryCount": 150,
+            "siteScreenName": "Randyc2115",
+            "rgUserId": "178866",
+            "rgUserName": "Randyc2115",
+            "user": {
+                "rgUserName": "Randyc2115",
+                "rgUserId": "178866",
+                "siteEntryName": "Randyc2115"
+            },
+            "siteEntryId": "2622821996",
+            "rank": 45,
+            "timeRemaining": 0,
+            "points": 159.15,
+            "lineup": {
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ccb",
+                        "name": "Yuli Gurriel"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e16",
+                        "name": "Chris Taylor"
+                    }
+                ],
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e37",
+                        "name": "Will Smith"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e4a",
+                        "name": "Justin Turner"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e5a",
+                        "name": "Corey Seager"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e5b",
+                        "name": "Cody Bellinger"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c58",
+                        "name": "Darin Ruf"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c57",
+                        "name": "Myles Straw"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ed3",
+                        "name": "Dustin May"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Dustin May",
+                    "Carlos Rodon",
+                    "Cody Bellinger",
+                    "Corey Seager",
+                    "Justin Turner",
+                    "Will Smith",
+                    "Chris Taylor",
+                    "Yuli Gurriel",
+                    "Darin Ruf",
+                    "Myles Straw"
+                ]
+            },
+            "salaryUsed": 49900,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$150.00"
+                },
+                "cash": 150
+            },
+            "createdAt": "2021-04-06T13:31:35.767Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a98199",
+            "userEntryCount": 150,
+            "siteScreenName": "ahitspat",
+            "rgUserId": "112690",
+            "rgUserName": "ahitspat12345",
+            "user": {
+                "rgUserName": "ahitspat12345",
+                "rgUserId": "112690",
+                "siteEntryName": "ahitspat"
+            },
+            "siteEntryId": "2621878255",
+            "rank": 45,
+            "timeRemaining": 0,
+            "points": 159.15,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8b",
+                        "name": "Omar Narvaez"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb6",
+                        "name": "Jake Cronenworth"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ccb",
+                        "name": "Yuli Gurriel"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92dbf",
+                        "name": "Alex Verdugo"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c88",
+                        "name": "Franchy Cordero"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e47",
+                        "name": "Rafael Devers"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e90",
+                        "name": "Nick Pivetta"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Nick Pivetta",
+                    "Xander Bogaerts",
+                    "Rafael Devers",
+                    "J.D. Martinez",
+                    "Alex Verdugo",
+                    "Yuli Gurriel",
+                    "Jake Cronenworth",
+                    "Franchy Cordero",
+                    "Omar Narvaez"
+                ]
+            },
+            "salaryUsed": 49800,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$150.00"
+                },
+                "cash": 150
+            },
+            "createdAt": "2021-04-06T13:31:35.767Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a98197",
+            "userEntryCount": 150,
+            "siteScreenName": "getloose",
+            "rgUserId": "378518",
+            "rgUserName": "getloose",
+            "user": {
+                "rgUserName": "getloose",
+                "rgUserId": "378518",
+                "siteEntryName": "getloose"
+            },
+            "siteEntryId": "2623248057",
+            "rank": 47,
+            "timeRemaining": 0,
+            "points": 158.7,
+            "lineup": {
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ccb",
+                        "name": "Yuli Gurriel"
+                    }
+                ],
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e37",
+                        "name": "Will Smith"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e44",
+                        "name": "Jose Altuve"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e4a",
+                        "name": "Justin Turner"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e5a",
+                        "name": "Corey Seager"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e5b",
+                        "name": "Cody Bellinger"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c88",
+                        "name": "Franchy Cordero"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c70",
+                        "name": "Zach McKinstry"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e90",
+                        "name": "Nick Pivetta"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Nick Pivetta",
+                    "Carlos Rodon",
+                    "Cody Bellinger",
+                    "Corey Seager",
+                    "Justin Turner",
+                    "Jose Altuve",
+                    "Will Smith",
+                    "Yuli Gurriel",
+                    "Franchy Cordero",
+                    "Zach McKinstry"
+                ]
+            },
+            "salaryUsed": 49600,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$150.00"
+                },
+                "cash": 150
+            },
+            "createdAt": "2021-04-06T13:31:35.767Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a98196",
+            "userEntryCount": 1,
+            "siteScreenName": "b5050",
+            "user": {
+                "siteEntryName": "b5050"
+            },
+            "siteEntryId": "2622303332",
+            "rank": 48,
+            "timeRemaining": 0,
+            "points": 158.6,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8c",
+                        "name": "Yermin Mercedes"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8e",
+                        "name": "Albert Pujols"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb6",
+                        "name": "Jake Cronenworth"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cd5",
+                        "name": "Evan Longoria"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cda",
+                        "name": "Jared Walsh"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cad",
+                        "name": "Austin Slater"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ed3",
+                        "name": "Dustin May"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Dustin May",
+                    "Xander Bogaerts",
+                    "J.D. Martinez",
+                    "Jared Walsh",
+                    "Evan Longoria",
+                    "Jake Cronenworth",
+                    "Austin Slater",
+                    "Albert Pujols",
+                    "Yermin Mercedes"
+                ]
+            },
+            "salaryUsed": 50000,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$150.00"
+                },
+                "cash": 150
+            },
+            "createdAt": "2021-04-06T13:31:35.766Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a98191",
+            "userEntryCount": 1,
+            "siteScreenName": "TheeGospel",
+            "user": {
+                "siteEntryName": "TheeGospel"
+            },
+            "siteEntryId": "2623520541",
+            "rank": 49,
+            "timeRemaining": 0,
+            "points": 158.55,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8c",
+                        "name": "Yermin Mercedes"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb6",
+                        "name": "Jake Cronenworth"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cda",
+                        "name": "Jared Walsh"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb7",
+                        "name": "Kike Hernandez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cad",
+                        "name": "Austin Slater"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e4a",
+                        "name": "Justin Turner"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e5a",
+                        "name": "Corey Seager"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Corey Seager",
+                    "Justin Turner",
+                    "J.D. Martinez",
+                    "Jared Walsh",
+                    "Kike Hernandez",
+                    "Jake Cronenworth",
+                    "Austin Slater",
+                    "Yermin Mercedes"
+                ]
+            },
+            "salaryUsed": 50000,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$150.00"
+                },
+                "cash": 120
+            },
+            "createdAt": "2021-04-06T13:31:35.766Z"
+        },
+        {
+            "_id": "606c62b7b2d3d80f36a98192",
+            "userEntryCount": 10,
+            "siteScreenName": "clevelandforlife2017",
+            "rgUserId": "235626",
+            "rgUserName": "clevelandforlife2017",
+            "user": {
+                "rgUserName": "clevelandforlife2017",
+                "rgUserId": "235626",
+                "siteEntryName": "clevelandforlife2017"
+            },
+            "siteEntryId": "2622873893",
+            "rank": 49,
+            "timeRemaining": 0,
+            "points": 158.55,
+            "lineup": {
+                "C": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92c8b",
+                        "name": "Omar Narvaez"
+                    }
+                ],
+                "2B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cb7",
+                        "name": "Kike Hernandez"
+                    }
+                ],
+                "1B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ccb",
+                        "name": "Yuli Gurriel"
+                    }
+                ],
+                "OF": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e2c",
+                        "name": "J.D. Martinez"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92dbf",
+                        "name": "Alex Verdugo"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92cad",
+                        "name": "Austin Slater"
+                    }
+                ],
+                "3B": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e47",
+                        "name": "Rafael Devers"
+                    }
+                ],
+                "SS": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e50",
+                        "name": "Xander Bogaerts"
+                    }
+                ],
+                "P": [
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92ee7",
+                        "name": "Jacob deGrom"
+                    },
+                    {
+                        "_slatePlayerId": "606c62aeb2d3d80f36a92e84",
+                        "name": "Carlos Rodon"
+                    }
+                ],
+                "summary": [
+                    "Jacob deGrom",
+                    "Carlos Rodon",
+                    "Xander Bogaerts",
+                    "Rafael Devers",
+                    "J.D. Martinez",
+                    "Alex Verdugo",
+                    "Yuli Gurriel",
+                    "Kike Hernandez",
+                    "Austin Slater",
+                    "Omar Narvaez"
+                ]
+            },
+            "salaryUsed": 50000,
+            "_contestId": "606c62aeb2d3d80f36a92eea",
+            "slotsRemaining": 0,
+            "prize": {
+                "tierPayoutDescriptions": {
+                    "Cash": "$150.00"
+                },
+                "cash": 120
+            },
+            "createdAt": "2021-04-06T13:31:35.766Z"
+        }
+    ],
+    "count": "21211"
+}
