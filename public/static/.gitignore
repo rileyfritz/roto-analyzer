@@ -1,6 +1,4 @@
-Book1.csv
-test2.csv
-
+*.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
